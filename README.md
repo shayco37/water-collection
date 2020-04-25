@@ -1,3 +1,10 @@
+<img src="./screenshot.png"/>
+## Code notes
+This project has started as an home assignment but later on turned into a playground for me to test
+my current progress in ReactJS world.
+
+home_assignment.pdf holds the basic requirements for that home assignment.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
